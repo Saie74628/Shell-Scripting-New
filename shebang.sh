@@ -31,6 +31,6 @@ echo  Welcome to Batch54 Cloud DevOps Training
 
 # Pringing Multiple Lines 
 
-echo Line1
-echo Line2
-echo Line3
+echo -n Line1
+echo -n Line2
+echo -e Line3
